@@ -4,7 +4,6 @@
 - A l’aide du plugin ApexCharts, intégrer des éléments dans un projet
 
 - Bonus perso : utilisation de vuetify
-- 
 ## Project setup
 ```
 npm install
