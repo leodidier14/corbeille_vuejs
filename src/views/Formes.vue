@@ -1,16 +1,16 @@
 <template>
-  <hello-world />
+    <Poly/>
 </template>
 
 <script lang="ts">
   import Vue from 'vue'
-  import HelloWorld from '../components/HelloWorld.vue'
+  import Poly from '../components/Poly.vue'
 
   export default Vue.extend({
-    name: 'Home',
+    name: 'Formes',
 
     components: {
-      HelloWorld,
+      Poly,
     },
   })
 </script>

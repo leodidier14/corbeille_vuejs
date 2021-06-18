@@ -1,16 +1,16 @@
 <template>
-  <hello-world />
+    <Graph/>
 </template>
 
 <script lang="ts">
   import Vue from 'vue'
-  import HelloWorld from '../components/HelloWorld.vue'
+  import Graph from '../components/Graph.vue'
 
   export default Vue.extend({
-    name: 'Home',
+    name: 'Stats',
 
     components: {
-      HelloWorld,
+      Graph,
     },
   })
 </script>
